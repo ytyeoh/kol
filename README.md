@@ -14,3 +14,12 @@
 - new user with referrer code only count
 - nickname for affilaite only show, real name will not display in profile page
 - user not kol group must change group only can be affiliate.
+
+
+## Affiliate
+1. must renew to get commision pay.
+2. commisoon after 30 ppl is RM25, before is RM15.
+
+### detais
+- msg for expire affiliate ```Please renew to allow affiliates commission for for renew member in order ID: 262 - rre erdec for 2 year worht RM 30.```
+- msg for normal affiliate ```Affiliates commission for for renew member in order ID: 256 - rre erdec for 1 year.``` without renew remind.
