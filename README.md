@@ -23,3 +23,16 @@
 ### detais
 - msg for expire affiliate ```Please renew to allow affiliates commission for for renew member in order ID: 262 - rre erdec for 2 year worht RM 30.```
 - msg for normal affiliate ```Affiliates commission for for renew member in order ID: 256 - rre erdec for 1 year.``` without renew remind.
+
+
+
+
+--------------------------
+
+# customer
+## purchase in valid time
+1. can only purchase each product only 2 quantity each month.
+
+
+## expire
+1. only can purchase renew expire date
