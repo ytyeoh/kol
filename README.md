@@ -36,3 +36,5 @@
 
 ## expire
 1. only can purchase renew expire date
+2. once add to cart, same product in history purchase within this month and cart with new added quantity will be sum and check make sure below monthly limit of product.
+3. monthly limit of product can be chaneg by admin.
