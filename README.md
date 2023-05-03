@@ -24,7 +24,14 @@
 - msg for expire affiliate ```Please renew to allow affiliates commission for for renew member in order ID: 262 - rre erdec for 2 year worht RM 30.```
 - msg for normal affiliate ```Affiliates commission for for renew member in order ID: 256 - rre erdec for 1 year.``` without renew remind.
 
+----
+## merchant
+1. add expire date to merchant
 
+### details
+- disaply expire date in merchant dashboard.
+- expire show with remain day
+- 
 
 
 --------------------------
