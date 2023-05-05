@@ -40,6 +40,10 @@
 ## purchase in valid time
 1. can only purchase each product only 2 quantity each month.
 
+## merchant expire
+- will display out of stock when ad to cart for merchant expire product.
+- can view as normal for product.
+
 
 ## expire
 1. only can purchase renew expire date
