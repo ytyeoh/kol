@@ -39,6 +39,8 @@
 # customer
 ## purchase in valid time
 1. can only purchase each product only 2 quantity each month.
+2. alllow free checkout payment method when purchase voucher in RM0.
+3. razer pay only activate when need amke payment above RM1.
 
 ## merchant expire
 - will display out of stock when ad to cart for merchant expire product.
